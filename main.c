@@ -36,7 +36,7 @@ int main(void){
   strcpy(aux -> nome, "Arnaldo");
   strcpy(aux -> turma, "10E");
   aux -> notas = 19.9;
-  seg -> px = ;
+  seg -> px = seg;
 
 
   //😎👌Segunda celula
